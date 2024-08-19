@@ -1,12 +1,12 @@
-**👋 Hi, I’m Bam!**
+# 👋 Hi, I’m Bam!
 - 👀 I’m interested in GAME and SOMETHING FUN!!!!
 - 🌱 I’m currently learning C++, C#, GoDot.
 - 👾 I’m looking to collaborate on small game!
 - 📫 How to reach me bams.pattarawan@gmail.com
 
-**🌈 Goal for August 2024:**
-- Complete GoDot tutorial.
-- Make a simple game.
+## 🌈 Goal for August 2024:
+- [ ] Complete GoDot tutorial.
+- [ ] Make a simple game.
 
 
 <!---
