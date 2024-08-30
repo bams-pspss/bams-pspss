@@ -5,7 +5,7 @@
 - 👾 I’m looking to collaborate on small game!
 - 📫 How to reach me bams.pattarawan@gmail.com
 
-## 🌈 Goal for August 2024:
+## 🌈 Goal for 2024:
 - [ ] Complete GoDot tutorial.
 - [ ] Make a simple game.
 
