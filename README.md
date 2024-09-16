@@ -9,10 +9,16 @@
 - [ ] Complete GoDot tutorial.
 - [ ] Make a simple game.
 
-### 🍮 A little bit more about me
-- I am currently a student in Seneca College.
-- Studying Computer Programming!
-- I have passion and obsession of wanting to be a game developers!
+## 🗒️ Project Links
+[C++](https://github.com/bams-pspss/Projects-CPP) </br>
+[Python](https://github.com/bams-pspss/Projects-Python) </br>
+Web Development
+
+
+## 🥇 Certificates
+**C++**</br>
+<img src="https://github.com/user-attachments/assets/9eb678d8-6a27-43b6-b614-c2171c1fa5b8" width="400">
+
 
 <!---
 bams-pspss/bams-pspss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
