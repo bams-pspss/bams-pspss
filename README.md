@@ -10,14 +10,14 @@
 - [ ] Make a simple game.
 
 ## 🗒️ Project Links
-[C++](https://github.com/bams-pspss/Projects-CPP) </br>
-[Python](https://github.com/bams-pspss/Projects-Python) </br>
+[C++ - Projects](https://github.com/bams-pspss/Projects-CPP) </br>
+[Python - Projects](https://github.com/bams-pspss/Projects-Python) </br>
 Web Development
 
 
-## 🥇 Certificates
+<!--## 🥇 Certificates
 **C++**</br>
-<img src="https://github.com/user-attachments/assets/9eb678d8-6a27-43b6-b614-c2171c1fa5b8" width="400">
+<img src="https://github.com/user-attachments/assets/9eb678d8-6a27-43b6-b614-c2171c1fa5b8" width="200">
 
 
 <!---
