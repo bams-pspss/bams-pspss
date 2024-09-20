@@ -3,7 +3,7 @@
 - ✨ I'm intermediate in C and C++
 - 🌱 I’m currently learning C# and GoDot.
 - 👾 I’m looking to collaborate on small game!
-- 📫 How to reach me bams.pattarawan@gmail.com
+- 📫 How to reach me bamps.pattarawan@gmail.com
 
 ## 🌈 Goal for 2024:
 - [ ] Complete GoDot tutorial.
