@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Bam!
 - 👀 I’m interested in GAME and SOMETHING FUN!!!!
 - ✨ I'm intermediate in C and C++
-- 🌱 I’m currently learning C# and GoDot.
+- 🌱 I’m currently learning C#, GoDot and Unity.
 - 👾 I’m looking to collaborate on small game!
 - 📫 How to reach me bams.pattarawan@gmail.com
 
