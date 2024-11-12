@@ -7,7 +7,11 @@
 
 ## 🌈 Goal for 2024:
 - [ ] Complete GoDot tutorial.
-- [ ] Make a simple game.
+- [x] Make a simple game.
+    - https://bams-pspss.itch.io/keep-it-safe
+    - Game about cats that got abandom for some reason!
+    - First game!
+ 
 
 ## 🗒️ Project Links
 [C++ - Projects](https://github.com/bams-pspss/Projects-CPP) </br>
