@@ -6,7 +6,6 @@
 - 📫 How to reach me bams.pattarawan@gmail.com
 
 ## 🌈 Goal for 2024:
-- [ ] Complete GoDot tutorial.
 - [x] Make a simple game.
     - https://bams-pspss.itch.io/keep-it-safe
     - Game about cats that got abandom for some reason!
