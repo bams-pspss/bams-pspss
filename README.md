@@ -7,7 +7,7 @@
 
 ## 🌈 Goal for 2024:
 - [x] Make a simple game.
-    - https://bams-pspss.itch.io/keep-it-safe
+    - https://idontknowwwww.itch.io/keep-it-safe
     - Game about cats that got abandom for some reason!
     - First game!
  
