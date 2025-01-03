@@ -5,7 +5,7 @@
 - 👾 I’m looking to collaborate on small game!
 - 📫 How to reach me bams.pattarawan@gmail.com
 
-## 🌈 Goal for 2024:
+## 🌈 Goal for 2024 COMPLETE!:
 - [x] Make a simple game.
     - https://idontknowwwww.itch.io/keep-it-safe
     - Game about cats that got abandom for some reason!
