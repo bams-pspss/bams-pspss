@@ -5,6 +5,12 @@
 - 👾 I’m looking to collaborate on small game!
 - 📫 How to reach me bams.pattarawan@gmail.com
 
+## 🗒️ Goal for 2025:
+- [ ] Make a blog website for my travelling
+    - Include the Journal
+    - Discovered Coffee Shop
+
+
 ## 🌈 Goal for 2024 COMPLETE!:
 - [x] Make a simple game.
     - https://idontknowwwww.itch.io/keep-it-safe
