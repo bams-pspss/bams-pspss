@@ -9,6 +9,7 @@
 - [ ] Make a blog website for my travelling
     - Include the Journal
     - Discovered Coffee Shop
+- [ ] Make online photobooth! 
 
 
 ## 🌈 Goal for 2024 COMPLETE!:
