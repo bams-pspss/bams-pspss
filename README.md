@@ -6,11 +6,7 @@
 - 📫 How to reach me bams.pattarawan@gmail.com
 
 ## 🗒️ Goal for 2025:
-- [ ] Make a blog website for my travelling
-    - Include the Journal
-    - Discovered Coffee Shop
-- [ ] Make online photobooth! 
-
+- [ ] Make app for Thai National Park
 
 ## 🌈 Goal for 2024 COMPLETE!:
 - [x] Make a simple game.
