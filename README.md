@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Bam!
 - 👀 I’m interested in GAME and SOMETHING FUN!!!!
-- ✨ I'm intermediate in C and C++
+- ✨ I'm intermediate in C, C++ and WEB Development Langauges (TypeScript, JavaScript, HTML, CSS, Node, Express)
 - 🌱 I’m currently learning C#, GoDot and Unity.
 - 👾 I’m looking to collaborate on small game!
 - 📫 How to reach me bams.pattarawan@gmail.com
