@@ -5,10 +5,15 @@
 - 📫 How to reach me bams.pattarawan@gmail.com
 
 ## 🗒️ Goal for 2025:
-- [ ] Make app for locating all National Park in Thailand!
+- [x] Make app for locating all National Park in Thailand! <br>
+      - ALL THE WAIT IS GONE!<br>
+      - [VAYA - LIVE SITE](https://vaya-explorer.vercel.app/)
 
 ## 🗒️ Project Links
 ### 🚀 Full Stacked 
+- **VAYA - The EXPLORER** - An exploring app that provides you a national park list that you might thought it never exist! <br>
+  [VAYA - LIVE SITE](https://vaya-explorer.vercel.app/)
+
 - **Slimy Weather** - A cute weather app using Node.js, Express, EJS and OpenWeatherMap API<br>
 [GitHub Repo](https://github.com/bams-pspss/Slime-Weather-App)
 
