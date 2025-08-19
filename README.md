@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Bam!
 - 👀 I’m interested in GAME and MAKING SOMETHING FUN!!!!
 - ✨ I'm intermediate in C, C++ and TypeScript, JavaScript, HTML, CSS, Node, Express!
-- 🌱 I’m currently mastering JavaScript, TypeScript and Node.
+- 🌱 I’m currently mastering React, Next.js, and UNITY.
 - 📫 How to reach me bams.pattarawan@gmail.com
 
 ## 🗒️ Goal for 2025:
