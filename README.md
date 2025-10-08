@@ -11,6 +11,9 @@
 
 ## 🗒️ Project Links
 ### 🚀 Full Stacked 
+- **Trash Smarter** - An application where it tells you how to dispose your trash!<br>
+  [Trash Smarter](https://trash-smarter.vercel.app/)
+  
 - **VAYA - The EXPLORER** - An exploring app that provides you a national park list that you might thought it never exist! <br>
   [VAYA - LIVE SITE](https://vaya-explorer.vercel.app/)
 
