@@ -4,12 +4,13 @@
 - 🌱 I’m currently mastering React, Next.js, and UNITY.
 - 📫 How to reach me bams.pattarawan@gmail.com
 
-## 🗒️ Goal for 2025:
-- [x] Make app for locating all National Park in Thailand! <br>
-      - ALL THE WAIT IS GONE!<br>
-      - [VAYA - LIVE SITE](https://vaya-explorer.vercel.app/)
+## ✨ Developing:
+- **Safe Commute** - An application where you can track the Toronto Transit Commission and what is going on the stattion. <br>
+[Safe Commute](https://safe-commute.vercel.app/alert)
+
 
 ## 🗒️ Project Links
+
 ### 🚀 Full Stacked 
 - **Trash Smarter** - An application where it tells you how to dispose your trash!<br>
   [Trash Smarter](https://trash-smarter.vercel.app/)
@@ -29,6 +30,10 @@
 ### 🎮 Games Projects
 - **Keep It Safe** - Solo-developed game created for game jam! <br>
   [Play on Itch.io](https://idontknowwwww.itch.io/keep-it-safe)・[GitHub Repo](https://github.com/bams-pspss/KeepItSafe)
+- **Coin Master** - Learning PIXI.JS with coin mastering game! <br>
+  (Not Yet Completed) <br>
+  [Play on Ictch.io](https://idontknowwwww.itch.io/coin-master) 
+  
 
 
   ## 🌈 Goal for 2024 COMPLETE!:
